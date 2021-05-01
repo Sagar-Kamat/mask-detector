@@ -4,4 +4,4 @@
 
 #### I started with Darknet for the pretrained model and used transfer learning to make the model work on my dataset.
 
-#### You can run this model on your own dataset, just make sure you change the hyperparameters according to your needs.
+#### You can run this model on your own dataset, just make sure you fine tune the hyperparameters according to your needs.
